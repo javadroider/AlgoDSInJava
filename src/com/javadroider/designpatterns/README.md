@@ -26,3 +26,25 @@ __Java Design Patterns__ are divided into tree parts : *Creational*, *Structural
 * Abstract Factory Pattern
 * Builder Pattern
 * Prototype Pattern
+
+## STRUCTURAL DESIGN PATTERNS
+
+  Structural patterns provide different ways to create a class structure, for example using inheritance and composition to create a large object from small objects.
+* Proxy Pattern
+* Facade Pattern
+* Adapter Pattern
+* Flyweight Pattern
+* Decorator Pattern
+
+## BEHAVIORAL DESIGN PATTERNS
+
+Behavioral patterns provide solution for the better interaction between objects and how to provide lose coupling and flexibility to extend easily.
+* Template Method Pattern
+* Mediator Pattern
+* Chain of Responsibility Pattern
+* Observer Pattern
+* Strategy Pattern
+* Command Pattern
+* State Pattern
+* Visitor Pattern
+* Iterator Pattern
