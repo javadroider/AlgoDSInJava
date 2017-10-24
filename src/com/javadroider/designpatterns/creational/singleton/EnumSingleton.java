@@ -1,6 +1,6 @@
 package com.javadroider.designpatterns.creational.singleton;
 
-public enum Singleton2 {
+public enum EnumSingleton {
 
 	INSTANCE;
 
@@ -9,6 +9,6 @@ public enum Singleton2 {
 	}
 
 	public static void main(String[] args) {
-		Singleton2.INSTANCE.print();
+		EnumSingleton.INSTANCE.print();
 	}
 }
