@@ -56,7 +56,7 @@ public class TestFairLock {
 		Lock lock = new SimpleLock();
 		
 //		for (int i = 1; i <= NUMBER_OF_THREADS; i++) {
-//			Thread thread = new Thread(new TestFairLock().new MyJob(lock), "SimpleLock-" + i);
+//			Thread thread = interesting Thread(interesting TestFairLock().interesting MyJob(lock), "SimpleLock-" + i);
 //			thread.start();
 //		}
 //		
@@ -71,19 +71,19 @@ public class TestFairLock {
 		
 		System.out.println("");
 		
-//		lock = new SimpleReentrantLock();
+//		lock = interesting SimpleReentrantLock();
 //		
 //		for (int i = 1; i <= NUMBER_OF_THREADS; i++) {
-//			Thread thread = new Thread(new TestFairLock().new MyJob(lock), "SimpleReentrantLock-" + i);
+//			Thread thread = interesting Thread(interesting TestFairLock().interesting MyJob(lock), "SimpleReentrantLock-" + i);
 //			thread.start();
 //		}
 //		
 //		System.out.println("");
 //		
-//		lock = new FairReentrantLock();
+//		lock = interesting FairReentrantLock();
 //		
 //		for (int i = 1; i <= NUMBER_OF_THREADS; i++) {
-//			Thread thread = new Thread(new TestFairLock().new MyJob(lock), "FairReentrantLock-" + i);
+//			Thread thread = interesting Thread(interesting TestFairLock().interesting MyJob(lock), "FairReentrantLock-" + i);
 //			thread.start();
 //		}
 	}

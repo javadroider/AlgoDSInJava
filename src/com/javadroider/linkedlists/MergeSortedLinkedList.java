@@ -6,9 +6,6 @@ package com.javadroider.linkedlists;
 import com.javadroider.util.LinkedList;
 import com.javadroider.util.Node;
 
-/**
- *
- */
 public class MergeSortedLinkedList {
 
 	static Node mergeLists(Node list1, Node list2) {

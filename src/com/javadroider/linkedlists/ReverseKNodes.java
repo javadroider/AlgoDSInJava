@@ -6,9 +6,6 @@ package com.javadroider.linkedlists;
 import com.javadroider.util.LinkedList;
 import com.javadroider.util.Node;
 
-/**
- *
- */
 public class ReverseKNodes {
 
 	static Node recursiveReverse(Node head, int k) {
