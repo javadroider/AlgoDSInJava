@@ -10,6 +10,7 @@ Discuss things like:
 * How would you support custom short URLs?
 * How to delete expired URLs etc?
 * How to track click stats?
+https://leetcode.com/problems/design-tinyurl/discuss/
 
 ## Design YouTube, Netflix or Twitch (a global video streaming service)
 Videos mean that your service will be storing and transmitting petabytes and petabytes of data.You should discuss how to efficiently store and distribute data in away that a huge number of users can watch and share them simultaneously (e.g. imagine streaming the latest episode of a hit TV show like Games of Thrones).
