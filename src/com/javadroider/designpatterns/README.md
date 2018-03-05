@@ -40,7 +40,7 @@ __Java Design Patterns__ are divided into tree parts : *Creational*, *Structural
 
 Behavioral patterns provide solution for the better interaction between objects and how to provide lose coupling and flexibility to extend easily.
 * [ Template Method Pattern ](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/template)
-* Mediator Pattern
+* [ Mediator Pattern ](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/mediator)
 * Chain of Responsibility Pattern
 * Observer Pattern
 * Strategy Pattern
