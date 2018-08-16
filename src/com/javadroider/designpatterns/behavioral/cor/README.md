@@ -8,3 +8,9 @@
 - Every node in chain will have the responsibility to decide, if they can serve the request.
 - If node decides to forward the request, it should be capable of choosing the next node and forward it.
 - There is a possibility where none of the node may serve the request.
+
+**Real Life Example**
+- Bank loan approval process. Bank loan goes thorigh multiple approvals. If amount is less cashier might approve it. If it is more then he will assign the request to manager. If manager can not approve then he may assign the request to zonal manager for approval. The person whi has requested for loan is not aware of so many processes happening in the background.
+
+**Project Example**
+- HTTP Filters
