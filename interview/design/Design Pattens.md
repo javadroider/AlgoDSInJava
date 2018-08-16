@@ -46,7 +46,7 @@ http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns
 
 
 
-10. Give an insight into such patterns as Façade/Proxy/Decorator/Strategy/Observer (selectively)
+10. Give an insight into such patterns as FaÃ§ade/Proxy/Decorator/Strategy/Observer (selectively)
 
 
 
