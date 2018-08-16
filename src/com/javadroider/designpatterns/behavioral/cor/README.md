@@ -10,7 +10,7 @@
 - There is a possibility where none of the node may serve the request.
 
 **Real Life Example**
-- Bank loan approval process. Bank loan goes thorigh multiple approvals. If amount is less cashier might approve it. If it is more then he will assign the request to manager. If manager can not approve then he may assign the request to zonal manager for approval. The person whi has requested for loan is not aware of so many processes happening in the background.
+- Bank loan approval process. Bank loan goes through multiple approvals. If amount is less then cashier might approve it. If it is more then he will assign the request to manager. If the manager can not approve then he may assign the request to zonal manager for approval. The person who has requested for loan is not aware of so many processes happening in the background.
 
 **Project Example**
 - HTTP Filters
