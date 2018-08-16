@@ -66,7 +66,7 @@ This is done to separate internal representations of information from the ways i
 - Architecture for World Wide Web applications in major programming languages.
 - Web frameworks such as Django and Rails.
 
-## 10. Interpreter pattern ##
+## 9. Interpreter pattern ##
 This pattern is used for designing a component that interprets programs written in a dedicated language. It mainly specifies how to evaluate lines of programs, known as sentences or expressions written in a particular language. The basic idea is to have a class for each symbol of the language.
 
 **Usage**
