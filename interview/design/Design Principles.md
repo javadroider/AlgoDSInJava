@@ -8,6 +8,7 @@
 - The Open/Closed Principle states that code entities should be open for extension, but closed for modification.
 - It's closed for modification, but it can be extended by, for instance, inheriting from it and overriding or extending certain behaviors.
 - It states that the design and writing of the code should be done in a way that new functionality should be added with minimum changes in the existing code. The design should be done in a way to allow the adding of new functionality as new classes, keeping as much as possible existing code unchanged.
+
 https://www.oodesign.com/open-close-principle.html
 
 
@@ -15,6 +16,7 @@ https://www.oodesign.com/open-close-principle.html
 - Any child type of a parent type should be able to stand in for that parent without things blowing up.
 - We must make sure that new derived classes are extending the base classes without changing their behavior.
 - For example, if you have a class, Animal, with a makeNoise() method, then any subclass of Animal should reasonably implement makeNoise(). Cats should meow, dogs should bark, etc. What you wouldn't do is define a MuteMouse class that throws IDontActuallyMakeNoiseException. This violates the LSP, and the argument would be that this class has no business inheriting from Animal.
+
 https://www.oodesign.com/liskov-s-substitution-principle.html
 
 
