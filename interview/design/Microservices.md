@@ -8,7 +8,7 @@
 
 [ Monitoring using prometheus ](https://dzone.com/articles/monitoring-using-spring-boot-2-prometheus-and-graf)
 
-[ Blue & green deployment ](https://dzone.com/articles/blue-green-deployment-for-cloud-native-application)
+[ Blue Green deployment ](https://dzone.com/articles/blue-green-deployment-for-cloud-native-application)
 
 [ Transactions in microservices1 ](https://www.baeldung.com/transactions-across-microservices)
 
