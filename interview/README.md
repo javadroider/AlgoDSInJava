@@ -10,6 +10,10 @@ Bitwise operations
 SQL famous queries
 Concurrency in Java
 
+Trivago
+Stock program
+how to add big numbers
+
 
 
 What Are The Different Types Of Memory Used By Jvm ?
