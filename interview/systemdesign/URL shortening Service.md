@@ -53,9 +53,13 @@ Following could be the definitions of the APIs for creating and deleting URLs:
 
 **Parameters:**
 api_dev_key (string): The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.
+
 original_url (string): Original URL to be shortened.
+
 custom_alias (string): Optional custom key for the URL.
+
 user_name (string): Optional user name to be used in encoding.
+
 expire_date (string): Optional expiration date for the shortened URL.
 
 **Returns:**  (string)
