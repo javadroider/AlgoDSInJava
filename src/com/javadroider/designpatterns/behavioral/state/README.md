@@ -1,4 +1,4 @@
-State design pattern is used when an Object change it’s behavior based on it’s internal state.
+tate design pattern is used when an Object change it’s behavior based on it’s internal state.
 
 If we have to change the behavior of an object based on it’s state, we can have a state variable in the Object and use if-else condition block to perform different actions based on the state. State pattern is used to provide a systematic and lose-coupled way to achieve this through Context and State implementations.
 

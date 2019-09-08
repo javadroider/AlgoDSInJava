@@ -1,5 +1,5 @@
-package com.javadroider.designpatterns.behavioral.cor;
 
+package com.javadroider.designpatterns.behavioral.cor;
 public class Currency {
 
 	private int amount;
