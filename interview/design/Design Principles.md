@@ -13,7 +13,9 @@
 ### 3. Liskov Substitution Principle ###  
 - Any child type of a parent type should be able to stand in for that parent without things blowing up.  
 - We must make sure that new derived classes are extending the base classes without changing their behavior.  
-- For example, if you have a class, Animal, with a makeNoise() method, then any subclass of Animal should reasonably implement makeNoise(). Cats should meow, dogs should bark, etc. What you wouldn't do is define a MuteMouse class that throws IDontActuallyMakeNoiseException. This violates the LSP, and the argument would be that this class has no business inheriting from Animal.  
+- For example, if you have a class, Animal, with a makeNoise() method, then any subclass of Animal should reasonably implement makeNoise(). Cats should meow, dogs should bark, etc. What you wouldn't do is define a MuteMouse class that throws IDontActuallyMakeNoiseException. This violates the LSP, and the argument would be that this class has no business inheriting from Animal. 
+- We must make sure that the new derived classes just extend without replacing the functionality of old classes. Otherwise the new classes can produce undesired effects when they are used in existing program modules.
+- If a program module is using a Base class, then the reference to the Base class can be replaced with a Derived class without affecting the functionality of the program module.
 - https://www.oodesign.com/liskov-s-substitution-principle.html  
   
   
