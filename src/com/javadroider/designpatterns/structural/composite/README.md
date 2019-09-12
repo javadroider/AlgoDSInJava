@@ -17,9 +17,9 @@ In the end, the head employees are close coworkers of the CEO, and the regular e
 Running the code above will yield:
 
 > Employee : | Name: Scott, Position: CEO, Wage: 3000 |
-Employee : | Name: Andrew, Position: Manager, Wage: 2000 |
-Employee : | Name: David, Position: Programmer, Wage: 1500 |
-Employee : | Name: Chris, Position: Programmer, Wage: 1750 |
-Employee : | Name: Ivan, Position: Programmer, Wage: 1200 |
-Employee : | Name: Juliette, Position: Marketing, Wage: 1000 |
-Employee : | Name: Rebecca, Position: Sales, Wage: 2000 |
+> Employee : | Name: Andrew, Position: Manager, Wage: 2000 |
+> Employee : | Name: David, Position: Programmer, Wage: 1500 |
+> Employee : | Name: Chris, Position: Programmer, Wage: 1750 |
+> Employee : | Name: Ivan, Position: Programmer, Wage: 1200 |
+> Employee : | Name: Juliette, Position: Marketing, Wage: 1000 |
+> Employee : | Name: Rebecca, Position: Sales, Wage: 2000 |
