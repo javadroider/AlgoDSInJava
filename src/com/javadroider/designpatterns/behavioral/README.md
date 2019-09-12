@@ -2,13 +2,15 @@
 
 - Behavioral Patterns are concerned about providing solutions regarding object interaction - how do they communicate, how are some dependent on others, and how to segregate them to be both dependent and independent and provide both flexibility and testing capabilities.
 
-**C : **Command 
-**O : **Observer 
-**S : **State
-**M : **Mediator
-**I : **Iterator
-**S : **Strategy
-**T : **Template method
+#### COSMIST CV
 
-**C : **Chain OF Responsibility
-**V : ** Visitor
+- **C :** Command 
+- **O : **Observer 
+- **S : **State
+- **M : **Mediator
+- **I : **Iterator
+- **S : **Strategy
+- **T : **Template method
+
+- **C : **Chain OF Responsibility
+- **V :** Visitor
