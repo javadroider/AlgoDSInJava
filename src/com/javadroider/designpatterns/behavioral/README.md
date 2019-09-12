@@ -13,3 +13,7 @@
 
 - C -- Chain OF Responsibility
 - V -- Visitor
+
+#### Sources
+
+https://stackabuse.com/behavioral-design-patterns-in-java/
