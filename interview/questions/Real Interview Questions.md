@@ -1,5 +1,5 @@
 # Hit & Miss
-Questions I was asked in different telephonic and onsite interviews.
+Real Interview Questions.
 
 - `Implement Throttling` - Design Data Structure and Algorithm for implementing throttling.
 - `Implement pow(x, n)` - Optimized solution with recursion [LeetCode050](https://leetcode.com/problems/powx-n)

@@ -108,7 +108,7 @@ With 68.7B unique strings, let’s assume six letter keys would suffice for our 
 - Maintain a counter and keep incrementing to get the next short URL
 - Maintain counter ranges in the zookeeper
 - Each application server will run a counter from an assigned range. Once the range is over, application server will ask zookeeeper for the next available range
--  As soon as new application server, it will ask zookeeper to give the range.
+- As soon as new application server, it will ask zookeeper to give the range.
 - If server goes down, we need not worry about it as we have many combinations
 - When an application server runs out of the range, it will ask zookeeper to give one more range
 
