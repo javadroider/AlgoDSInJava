@@ -1,8 +1,8 @@
+Design Trivago
 Design commenting system
 Design subscription based sports website which can display scores, game status, history for any games.
 Design Netflix => search, video serving, authentication, encryption, dns lookup,caching strategy,serving multi quality video etc
 Design a Latency Management System
-Design a Library Management System
 Design a Notification service
 Design ESPN/Cricinfo/Cricbuzz
 Design Uber
