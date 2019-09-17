@@ -86,7 +86,7 @@ public class Traversals {
         System.out.print("PREORDER ");
         traversals.preOrder(head);
         System.out.println();
-        System.out.print("PREORDER ITERATIVE ");
+        System.out.print("PREORDER ITERATIVE1 ");
         traversals.preOrderIterative(head);
 
         System.out.println();
@@ -95,12 +95,12 @@ public class Traversals {
 
         System.out.println();
         System.out.print("POSTORDER ITERATIVE ");
-       // traversals.postOrderIterative(head);
+       traversals.postOrderIterative2(head);
 
 
     }
 
-    private void postOrderIterative(Node node) {
+    private void postOrderIterative1(Node node) {
         Stack<Node> stack = new Stack<>();
         while (true) {
 
@@ -125,6 +125,30 @@ public class Traversals {
                     node = null;
                 }
             }
+        }
+    }
+
+    private void postOrderIterative2(Node node) {
+        Stack<Node> stack1 = new Stack<>();
+        Stack<Node> stack2 = new Stack<>();
+
+        stack1.add(node);
+
+        while(!stack1.empty()){
+            Node temp = stack1.pop();
+            stack2.push(temp);
+
+            if(temp.left!=null){
+                stack1.push(temp.left);
+            }
+            if(temp.right!=null){
+                stack1.push(temp.right);
+            }
+        }
+
+        while (!stack2.isEmpty()) {
+        Node temp = stack2.pop();
+            System.out.print(temp.data + " ");
         }
     }
 }

@@ -1,7 +1,7 @@
 /**
- * 
+ *
  */
-package com.javadroider.linkedlists;
+package com.javadroider.ds.linkedlists;
 
 import com.javadroider.util.LinkedList;
 import com.javadroider.util.Node;
@@ -47,7 +47,7 @@ public class MergeSortedLinkedList {
 		    return list2;
 		  }
 		}
-	
+
 	/**
 	 * @param args
 	 */
@@ -56,16 +56,16 @@ public class MergeSortedLinkedList {
 		l1.add(1);
 		l1.add(5);
 		l1.add(7);
-		
+
 
 		LinkedList l2 = new LinkedList();
 		l2.add(3);
 		l2.add(4);
 		//l2.add(8);
-		
+
 		l1.print();
 		l2.print();
-		
+
 		Node head = recursiveMergeLists(l1.getHead(), l2.getHead());
 		LinkedList.print(head);
 	}

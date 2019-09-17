@@ -1,7 +1,7 @@
 /**
- * 
+ *
  */
-package com.javadroider.linkedlists;
+package com.javadroider.ds.linkedlists;
 
 import com.javadroider.util.LinkedList;
 import com.javadroider.util.Node;
