@@ -1,0 +1,3 @@
+- [ Tree traversals ](https://github.com/javadroider/AlgoDSInJava/blob/master/src/com/javadroider/ds/tree/Traversals.java)
+- [ Height of the tree ](https://github.com/javadroider/AlgoDSInJava/blob/master/src/com/javadroider/ds/tree/HeightOfTheTree.java)
+- [ Level order traversals ](https://github.com/javadroider/AlgoDSInJava/blob/master/src/com/javadroider/ds/tree/LevelOrderTraversal.java)
