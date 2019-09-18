@@ -1,4 +1,4 @@
-package com.samples.samples;
+package com.javadroider.ds.arrays;
 import java.util.*;
 
 class Subsets {
