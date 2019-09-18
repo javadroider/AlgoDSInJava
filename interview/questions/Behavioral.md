@@ -1,7 +1,7 @@
-** Example 1: Tuning performance **
-Situation: Performance problem where the application server had to be restarted every second day.
+## Example 1: Tuning performance
+**Situation**: Performance problem where the application server had to be restarted every second day.
 
-Action:
+**Action**:
 
 – Used JMeter to simulate the load conditions.
 
@@ -19,10 +19,11 @@ Action:
 
 Result: The application became a true mission critical 24×7 type with a much improved performance.
 
-** Example 2: Code quality **
-Situation: Java code that is hard to maintain and reuse. Changes to one module may break another module.
+## Example 2: Code quality
 
-Action:
+**Situation**: Java code that is hard to maintain and reuse. Changes to one module may break another module.
+
+**Action**:
 
 – Wrote unit tests with proper Mockito mock objects for the existing un-maintainable code.
 
