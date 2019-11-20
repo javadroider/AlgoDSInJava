@@ -39,6 +39,7 @@ class EndTimeComparator implements Comparator<Job> {
  * http://www.cs.princeton.edu/courses/archive/spr05/cos423/lectures/06dynamic-programming.pdf
  * Given set of jobs with start and end interval and profit, how to maximize profit such that
  * jobs in subset do not overlap.
+ * Check https://youtu.be/AxQjrWiOdkE for explanation
  */
 public class WeightedJobSchedulingMaximumProfit {
 
