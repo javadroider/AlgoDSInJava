@@ -1,5 +1,9 @@
 package com.javadroider.designpatterns.behavioral.command;
 
+interface Command {
+	public abstract void execute();
+}
+
 class Fan {
 	public void startRotate() {
 		System.out.println("Fan is rotating");
