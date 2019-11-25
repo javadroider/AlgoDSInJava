@@ -1,4 +1,6 @@
-**An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.**
+
+**- An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. 
+- Architectural patterns are similar to software design pattern but have a broader scope.**
 
 - - - - 
 
@@ -32,6 +34,7 @@ This pattern can be used to structure systems which produce and process a stream
 
 **Usage**
 - Compilers. The consecutive filters perform lexical analysis, parsing, semantic analysis, and code generation
+- Kafka connect & Kafka Streams
 
 ## 5. Broker pattern ##
 This pattern is used to structure distributed systems with decoupled components. These components can interact with each other by remote service invocations. A broker component is responsible for the coordination of communication among components.
