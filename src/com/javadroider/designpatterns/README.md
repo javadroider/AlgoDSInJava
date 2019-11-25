@@ -38,12 +38,12 @@ __Java Design Patterns__ are divided into three parts : *Creational*, *Structura
 ## [BEHAVIORAL DESIGN PATTERNS](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral)
 
 Behavioral patterns provide solution for the better interaction between objects and how to provide lose coupling and flexibility to extend easily.
-* [ Template Method Pattern ](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/template)
-* [ Mediator Pattern ](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/mediator)
+* [Template Method Pattern](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/template)
+* [Mediator Pattern](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/mediator)
 * Chain of Responsibility Pattern
-* Observer Pattern
+* [Observer Pattern](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/observer)
 * Strategy Pattern
-* Command Pattern
-* State Pattern
-* Visitor Pattern
-* Iterator Pattern
+* [Command Pattern](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/command)
+* [State Pattern](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/state)
+* [Visitor Pattern](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/visitor)
+* [Iterator Pattern](https://www.oodesign.com/iterator-pattern.html)
