@@ -26,10 +26,10 @@
 - Design Spotify
 - Design Promo Code API by taking into account Amazon's customer traffic into picture
 - Design Vending machine with following functionalities ==> Three types of Users : User, Operator, Admin
- > User can select and buy multiple  > ems at a time. Money can be inputted multiple times (you will get the item if there is a time gap > 30 secs). He can also do window shopping (see only the prices of items and buy nothing)
-> Operator can load the items and ma>k the items as expired if needed, gets notified if a product goes out of stock.
-> Admin can own multiple vending mac>ines, he should have a analytics report of the items purchased in a month. He can also change the prices directly and it should reflect in all the vending machines which he owns.
-> Exception handling in all the edge>cases
+  - User can select and buy multiple items at a time. Money can be inputted multiple times (you will get the item if there is a time gap > 30 secs). He can also do window shopping (see only the prices of items and buy nothing)
+  - Operator can load the items and mark the items as expired if needed, gets notified if a product goes out of stock.
+  - Admin can own multiple vending machines, he should have a analytics report of the items purchased in a month. He can also change the prices directly and it should reflect in all the vending machines which he owns.
+  - Exception handling in all the edge cases
 - Design splitwise
 - Design Google pay at scale
 - Design a Job schedular => scalability, fault tolerance, high availability, how scheduler picks up job, how will you take care where one job can run for 30 min and one for 30 hour, how will you distribute jobs on servers. Based on frequency & time how will you execute them ? How will you notify back the user about start/stop or completion of a job ? How will your system know if a job is killed / terminated due to unknown reasons ?
