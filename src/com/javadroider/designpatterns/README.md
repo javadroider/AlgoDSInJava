@@ -1,7 +1,6 @@
 # Java Design Patterns
 
-Design Patterns are very popular among software developers. A design pattern is a well-described solution to
-common software problem.
+Design Patterns are very popular among software developers. A design pattern is a well-described solution to common software problem.
 
 Some of benefits of using design patterns are :
   * Design patterns are already defined and provides industry standard approach to solve recurring problem,
@@ -13,9 +12,9 @@ Some of benefits of using design patterns are :
 __What is a Design Pattern ?__
    > A software design pattern is a general reusable solution to a commonly occurring problem within a given context in software design --- Wikipedia
 
-__Java Design Patterns__ are divided into tree parts : *Creational*, *Structural* and *Behavioral*.
+__Java Design Patterns__ are divided into three parts : *Creational*, *Structural* and *Behavioral*.
 
-## CREATIONAL DESIGN PATTERNS
+## [CREATIONAL DESIGN PATTERNS](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/creational)
 
   Creational design pattens provide solution to instantiate an object in the best possible way for specific situations.
   The basic form of object creation could result in design problems or add unwanted complexity to the design. Creational design patterns solve this problem by __controlling the object creation__ by different ways.
