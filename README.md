@@ -7,4 +7,5 @@ I thought I should put my findings in some place so that others also can make us
 - [https://gitpod.io](https://gitpod.io)
 
 Command to view Git username or email address
+
 [git config --list](https://alvinalexander.com/git/git-show-change-username-email-address)
