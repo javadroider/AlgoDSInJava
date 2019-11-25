@@ -26,7 +26,7 @@ __Java Design Patterns__ are divided into three parts : *Creational*, *Structura
 * Builder Pattern
 * Prototype Pattern
 
-## STRUCTURAL DESIGN PATTERNS
+## [STRUCTURAL DESIGN PATTERNS](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/structural)
 
   Structural patterns provide different ways to create a class structure, for example using inheritance and composition to create a large object from small objects.
 * Proxy Pattern
@@ -35,7 +35,7 @@ __Java Design Patterns__ are divided into three parts : *Creational*, *Structura
 * Flyweight Pattern
 * Decorator Pattern
 
-## BEHAVIORAL DESIGN PATTERNS
+## [BEHAVIORAL DESIGN PATTERNS](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral)
 
 Behavioral patterns provide solution for the better interaction between objects and how to provide lose coupling and flexibility to extend easily.
 * [ Template Method Pattern ](https://github.com/javadroider/AlgoDSInJava/tree/master/src/com/javadroider/designpatterns/behavioral/template)
