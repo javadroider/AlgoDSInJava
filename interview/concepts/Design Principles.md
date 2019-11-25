@@ -1,7 +1,8 @@
 ## S.O.L.I.D Design Priniciples ##
   
 ### 1. Single Responsibility Principle ###  
-- The single responsibility principle (SRP) asserts that a class or module should do one thing only. Now, this is kind of subjective, so the principle is reinforced with the heuristic that the class or module should have only one reason to change.  
+- A class or module should do one thing only. 
+- A class or module should have only one reason to change.  
   
 ### 2. Open/Closed Principle ###  
 - The Open/Closed Principle states that code entities should be open for extension, but closed for modification.  
