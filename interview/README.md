@@ -5,6 +5,7 @@
 - Design principles
 - Architectural patterns
 - Micro services
+- CAP theorem
 - Spring cache
 - Bitwise operations
 - SQL famous queries
